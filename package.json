@@ -20,6 +20,8 @@
   "homepage": "https://github.com/tobiasgrott/frontend-techs#readme",
   "devDependencies": {
     "tsc": "^1.20150623.0",
-    "typescript": "^4.1.3"
+    "typescript": "^4.1.3",
+    "webpack": "^5.21.1",
+    "webpack-cli": "^4.5.0"
   }
 }
