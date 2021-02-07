@@ -1,4 +1,4 @@
-import { makeParagraph } from "./views.utils.js";
+import { makeParagraph } from "./views.utils";
 
 const PARAGRAPH_1 = `
     Tobias is a Fullstack Developer who values clean, clear code, test-driven development (TDD)
