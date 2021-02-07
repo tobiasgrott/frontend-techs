@@ -4,7 +4,7 @@
         "checkJs": true,
         "sourceMap": true,
         "target": "ES5",
-        "types": ["node"],
+        "types": ["node","jest"],
         "noImplicitAny": true,
         "noImplicitReturns": true,
         "strict": true
